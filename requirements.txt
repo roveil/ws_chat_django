@@ -1,0 +1,7 @@
+django ~= 2.1.5
+channels ~= 2.1.6
+channels_redis ~= 2.3.2
+djangorestframework ~= 3.9.1
+
+#redis_server > 2.8
+#using python 3.5.5
